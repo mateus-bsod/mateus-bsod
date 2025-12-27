@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/072/636/995/non_2x/pixel-art-black-witch-hat-with-golden-buckle-free-png.png" alt="Witch Hat" width="200">
+</p>
 
-<!--
-**mateus-bsod/mateus-bsod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=js,rust,perl,java,c,cpp,cs,mysql,linux,windows,python&theme=dark" /> </br>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png" width="29" /><br/>
+      <sub><b>Reverse Engineering</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="30" /><br/>
+      <sub><b>Game Hacking</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pawn_logo.png" width="24" /><br/>
+      <sub><b>SA-MP / Pawn</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
