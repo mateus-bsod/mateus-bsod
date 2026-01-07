@@ -1,5 +1,11 @@
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/072/636/995/non_2x/pixel-art-black-witch-hat-with-golden-buckle-free-png.png" alt="Witch Hat" width="200">
+
+  <p align="center">
+    <strong>"Idiots admire complexity.<br>
+    Genius admires simplicity."</strong><br>
+    — <em>Terry A. Davis</em>
+  </p>
 </p>
 
 #
@@ -25,3 +31,4 @@
 </table>
 
 </div>
+
