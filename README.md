@@ -13,6 +13,8 @@
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-bsod&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages">
 </div>
 
+#
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateus-bsod&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph">
 </div>
