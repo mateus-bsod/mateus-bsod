@@ -6,9 +6,6 @@ Sou entusiasta de computação e inovação, tenho grande interesse pela área d
 
 <!-- Social  -->
 <p align="center">
-  <a href="#">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mateus-bsod?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    
   <a href="https://github.com/mateus-bsod?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mateus-bsod?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/mateus-bsod?tab=followers">
