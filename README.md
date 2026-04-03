@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mateus-bsod&show_icons=true&title_color=909090&text_color=ffffff&icon_color=54e354&bg_color=101010&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats-fast.vercel.app/api?username=mateus-bsod&show_icons=true&theme=dark" alt="ilustração do status do github">
 <img src="https://img.shields.io/static/v1?label=Overview&message=mateus-bsod&color=101010&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 Sou entusiasta de computação e inovação, tenho grande interesse pela área da tecnologia e gosto de aprender constantemente. 
