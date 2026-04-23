@@ -11,7 +11,3 @@ Apaixonado por engenharia reversa, desenvolvimento de jogos, cheats e, principal
   <a href="https://github.com/mateus-bsod?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mateus-bsod?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
-
-#
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mateus-bsod&bg_color=101010&color=54e354&line=54e354&point=FFFFFF&hide_border=true" /></a>
