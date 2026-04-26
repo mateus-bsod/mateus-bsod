@@ -11,3 +11,10 @@ Apaixonado por engenharia reversa, desenvolvimento de jogos, cheats e, principal
   <a href="https://github.com/mateus-bsod?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mateus-bsod?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+</br></br>
+#
+
+<p align="center">
+Acredito que tecnologia deve ser livre, não limitada por renda.</br>
+</p>
