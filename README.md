@@ -18,4 +18,5 @@ Apaixonado por engenharia reversa, desenvolvimento de jogos, cheats e, principal
 <p align="center">
 Acredito que tecnologia deve ser livre, não limitada por renda.</br>
 E por causa disso estou banido da maioria das redes sociais, mas se serve de consolo, eu sempre volto xD.
+criador do sparrowbay, mas infelizmente me fizeram o favor de banir a minha conta do github, lol.
 </p>
