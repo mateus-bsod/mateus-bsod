@@ -1,8 +1,7 @@
 <img align='right' src="https://github-readme-stats-fast.vercel.app/api?username=mateus-bsod&show_icons=true&theme=dark" alt="ilustração do status do github">
 <img src="https://img.shields.io/static/v1?label=Overview&message=mateus-bsod&color=101010&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-Apaixonado por engenharia reversa, desenvolvimento de jogos, cheats e, principalmente, tecnologia.
-
+Sou profundamente interessado nas áreas de engenharia reversa aplicada a jogos, cibersegurança, desenvolvimento de jogos e, principalmente, tecnologia em geral.
 
 <!-- Social  -->
 <p align="center">
