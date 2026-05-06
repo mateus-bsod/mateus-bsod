@@ -15,7 +15,5 @@ Sou profundamente interessado nas áreas de engenharia reversa aplicada a jogos,
 #
 
 <p align="center">
-Acredito que tecnologia deve ser livre, não limitada por renda.</br>
-E por causa disso estou banido da maioria das redes sociais, mas se serve de consolo, eu sempre volto xD.
-criador do sparrowbay, mas infelizmente me fizeram o favor de banir a minha conta do github, lol.
+“Um idiota admira a complexidade, um gênio admira a simplicidade” - Terry A. Davis
 </p>
