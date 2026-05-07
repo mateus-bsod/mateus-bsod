@@ -15,5 +15,5 @@ Sou profundamente interessado nas áreas de engenharia reversa aplicada a jogos,
 #
 
 <p align="center">
-“Um idiota admira a complexidade, um gênio admira a simplicidade” - Terry A. Davis
+“Eu não quero viver em uma sociedade onde todos sabem de tudo. Isso cria caos, conflitos e argumentos.” - John McAfee
 </p>
